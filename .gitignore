@@ -1,0 +1,4 @@
+*.name
+.idea/copyright/profiles_settings.xml
+*.xml
+.idea/notes.iml
